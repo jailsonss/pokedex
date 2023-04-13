@@ -1,0 +1,1 @@
+console.log('Teste de importação do JS efetuado com sucesso!');
